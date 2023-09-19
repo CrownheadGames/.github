@@ -56,6 +56,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PixelDreams-Studios/PixelDreams-Studios/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/PixelDreams-Studios/.github/main/workflows/snake.svg" alt="Snake animation" />
 
 ###
