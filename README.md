@@ -55,7 +55,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/PixelDreams-Studios/.github/main/workflows/snake.svg" alt="Snake animation" />
-
-###
