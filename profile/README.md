@@ -49,8 +49,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="40" alt="trello logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="40" alt="gamemakerstudio logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
 </div>
 
